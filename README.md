@@ -3,9 +3,7 @@
 <h1 align="center">~ Welcome to my profile ~</h1>
 
 <div align="center">
-<a >
 <img src="https://i.pinimg.com/originals/75/b3/3b/75b33b05e6918680d5dcc2b33f03c2fe.gif"/>
-</a>
     </div>
 
 
