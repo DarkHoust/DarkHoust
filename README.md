@@ -2,13 +2,13 @@
   <center>
 <h1 align="center">~ Welcome to my profile ~</h1>
 
-    <br>
+<br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a >
-   <img src="https://i.pinimg.com/originals/75/b3/3b/75b33b05e6918680d5dcc2b33f03c2fe.gif"/>
-  </a>
-    <br>
+<a >
+<img src="https://i.pinimg.com/originals/75/b3/3b/75b33b05e6918680d5dcc2b33f03c2fe.gif"/>
+</a>
+<br>
 
 
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
