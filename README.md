@@ -1,14 +1,15 @@
 <body>
   <center>
-<h1 align="center">~ Welcome to my profile ~</h1>
-
-<a>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
+<div align="center">
+   <img src="https://i.pinimg.com/originals/75/b3/3b/75b33b05e6918680d5dcc2b33f03c2fe.gif">
+  
 </div>
     <div align="center">
-          <img src="https://i.pinimg.com/originals/75/b3/3b/75b33b05e6918680d5dcc2b33f03c2fe.gif">
-    </div>
+    <img src="https://i.pinimg.com/originals/75/b3/3b/75b33b05e6918680d5dcc2b33f03c2fe.gif">
+      </div>
 <div>
-  </a>
 
 
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
@@ -25,19 +26,20 @@
 Currenly, I'm learning a new languages and improving my skills.
 </p>
 <br>
-<h2 align="center">            ~ Contact me! ~ </h2>
+  
+<h2 align="center">            📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝 </h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+      <img src="https://media.tenor.com/x8UIzwydU-gAAAAC/inabakumori-nukunuku-nigirimeshi.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center"> Here you can contact me in Steam >~< xoxox</p>
-<p align="center"><a href="https://steamcommunity.com/id/DarkHosy" target="_blank"><img src="img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<p align="center"> Here you can contact me in Steam!<br></p>
+<p align="center"><a href="https://steamcommunity.com/id/DarkHosy" target="_blank"><img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white'/></a> </p>
 </div>
 <br>
 <div>
-<h2 align="center"> ~ Thanks for reading! ~ </h2>
+<h2 align="center"> 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖 </h2>
 <div align="center">
-<img src="https://animesher.com/orig/1/167/1673/16735/animesher.com_porter-robinson-perfect-music-video-1673518.gif">
+  <img src="https://animesher.com/orig/1/167/1673/16735/animesher.com_porter-robinson-perfect-music-video-1673518.gif">
 </div>
 <hr>
 </div>
