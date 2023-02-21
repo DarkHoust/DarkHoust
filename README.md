@@ -8,7 +8,7 @@
 <p align="center">❤ I'm currently working on Software, Learning new stuffs, Game Dev. ❤</p>
 
 <!--
-**edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DarkHoust/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Thanks to edisonlee for README.md, Arigato
 Here are some ideas to get you started:
 
