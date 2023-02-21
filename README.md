@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/DarkHoust"><img src="DarkHost.png" alt="Chino Kafuu"></a>
-</p>
+
 
 <h1 align="center">Hi, I'm DarkHost</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
