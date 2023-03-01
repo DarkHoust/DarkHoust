@@ -1,4 +1,6 @@
-
+<p align="center">
+  <a><img src="updated.jpeg" alt="DarkHost"></a>
+</p>
 
 <h1 align="center">Hi, I'm DarkHost</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
