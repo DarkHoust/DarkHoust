@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="DarkHost.png" alt="DarkHost"></a>
+  <a><img src=ShimaRin.gif" alt="DarkHost"></a>
 </p>
 
 <h1 align="center">Hi, I'm DarkHost</a>!</h1>
