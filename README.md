@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm DarkHost</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-<p align="center">❤ I'm currently working on Software, Learning new stuffs, Game Dev. ❤</p>
+<p align="center">❤ I'm currently working on Software. Currently, learning IOS Development. ❤</p>
 
 <!--
 **DarkHoust/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
