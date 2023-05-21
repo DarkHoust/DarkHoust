@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi, I'm DarkHost</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <!--
 **DarkHoust/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
