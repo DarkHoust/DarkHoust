@@ -1,4 +1,5 @@
 
-<p align="center">
-  <a><img src="__shima_rin_yurucamp_drawn_by_bonchi_pixel__7d9c30860e343d296d4f9f31d9725081.gif" alt="DarkHost"></a>
-</p>
+### Hi there 👋 I'm DarkHost. iOS dev.
+- Currently learning Swift, SwiftUI
+- Studying at AITU as Software Engineer 
+ 
