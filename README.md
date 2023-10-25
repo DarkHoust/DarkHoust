@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm DarkHost. iOS dev.
+### Hi there 👋 I'm DarkHost.
 - Currently learning Swift, SwiftUI
 - Studying at AITU as Software Engineer 
  
