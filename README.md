@@ -1,5 +1,4 @@
 
-### Hi there 👋 I'm DarkHost.
-- Currently learning Swift, SwiftUI
+### Hi there 👋 I'm DarkHost
 - Studying at AITU as Software Engineer 
  
