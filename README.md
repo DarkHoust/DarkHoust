@@ -1,4 +1,4 @@
 
 ### Hi there 👋 I'm DarkHost
-- Studying at university as Software Engineer 
+- Studying at university as a Software Engineer 
  
